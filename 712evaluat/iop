@@ -1,0 +1,19 @@
+    while((op = getch()) != "\0")
+    {
+        scanf("%f",next);
+        switch(op)
+        {
+            case '+':
+            current = current+next;
+            break;
+            case '-':
+            current = current-next;
+            break;
+            case '*':
+            current = current*next;
+            break;
+            case '/':
+            current = current/next;
+            break;
+        }
+    }

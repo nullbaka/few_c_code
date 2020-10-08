@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="pussy" Database="">
+  <Project Name="dec2bin" Path="dec2bin/dec2bin.project" Active="No"/>
+  <Project Name="reverse" Path="reverse/reverse.project" Active="No"/>
+  <Project Name="201correct" Path="readfile/readfile.project" Active="No"/>
+  <Project Name="207denominations" Path="7/7.project" Active="No"/>
+  <Project Name="301date" Path="date/date.project" Active="No"/>
+  <Project Name="305matrix" Path="matrix/matrix.project" Active="No"/>
+  <Project Name="reverse2" Path="reverse2/reverse2.project" Active="No"/>
+  <Project Name="date2" Path="date2/date2.project" Active="No"/>
+  <Project Name="501digits" Path="digits/digits.project" Active="No"/>
+  <Project Name="502time" Path="time/time.project" Active="No"/>
+  <Project Name="demo" Path="demo/demo.project"/>
+  <Project Name="507largest" Path="4integers/4integers.project" Active="No"/>
+  <Project Name="601largest" Path="largest/largest.project" Active="No"/>
+  <Project Name="602hcf" Path="HCF/HCF.project" Active="No"/>
+  <Project Name="603fraction" Path="fraction/fraction.project" Active="No"/>
+  <Project Name="608calendar" Path="calender/calender.project" Active="No"/>
+  <Project Name="611exponential" Path="exponential/exponential.project" Active="No"/>
+  <Project Name="608calendar2" Path="calendar2/calendar2.project" Active="No"/>
+  <Project Name="701typemax" Path="type01/type01.project" Active="No"/>
+  <Project Name="continue" Path="continue/continue.project" Active="No"/>
+  <Project Name="705scrabble" Path="scrabble/scrabble.project" Active="No"/>
+  <Project Name="711name" Path="711name/711name.project" Active="No"/>
+  <Project Name="710vowels" Path="710vowels/710vowels.project" Active="No"/>
+  <Project Name="712evaluate" Path="712evaluat/712evaluat.project" Active="No"/>
+  <Project Name="713wordavg" Path="713wordavg/713wordavg.project" Active="No"/>
+  <Project Name="714sqrt_Newton" Path="714sqrt_Newton/714sqrt_Newton.project" Active="No"/>
+  <Project Name="8repdigit" Path="8repdigit/8repdigit.project" Active="No"/>
+  <Project Name="8deal" Path="8deal/8deal.project" Active="No"/>
+  <Project Name="8repdigit2" Path="8repdigit2/8repdigit2.project" Active="No"/>
+  <Project Name="801repdigitv2" Path="801repdigitv2/801repdigitv2.project" Active="No"/>
+  <Project Name="802repdigitv3" Path="802repdigitv3/802repdigitv3.project" Active="No"/>
+  <Project Name="806B1FF" Path="806B1FF/806B1FF.project" Active="No"/>
+  <Project Name="809random_walk" Path="809random_walk2/809random_walk2.project" Active="No"/>
+  <Project Name="814reverse_string" Path="814reverse_string/814reverse_string.project" Active="No"/>
+  <Project Name="815caesar_cipher" Path="815caesar_cipher/815caesar_cipher.project" Active="No"/>
+  <Project Name="816anagram" Path="816anagram/816anagram.project" Active="No"/>
+  <Project Name="817magic_square" Path="817magic_square/817magic_square.project" Active="No"/>
+  <Project Name="9quicksort" Path="9quicksort/9quicksort.project" Active="No"/>
+  <Project Name="901selection_sort" Path="901selection_sort/901selection_sort.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="dec2bin" ConfigName="Debug"/>
+      <Project Name="reverse" ConfigName="Debug"/>
+      <Project Name="201correct" ConfigName="Debug"/>
+      <Project Name="207denominations" ConfigName="Debug"/>
+      <Project Name="301date" ConfigName="Debug"/>
+      <Project Name="305matrix" ConfigName="Debug"/>
+      <Project Name="reverse2" ConfigName="Debug"/>
+      <Project Name="date2" ConfigName="Debug"/>
+      <Project Name="501digits" ConfigName="Debug"/>
+      <Project Name="502time" ConfigName="Debug"/>
+      <Project Name="demo" ConfigName="Debug"/>
+      <Project Name="507largest" ConfigName="Debug"/>
+      <Project Name="601largest" ConfigName="Debug"/>
+      <Project Name="602hcf" ConfigName="Debug"/>
+      <Project Name="603fraction" ConfigName="Debug"/>
+      <Project Name="608calendar" ConfigName="Debug"/>
+      <Project Name="611exponential" ConfigName="Debug"/>
+      <Project Name="608calendar2" ConfigName="Debug"/>
+      <Project Name="701typemax" ConfigName="Debug"/>
+      <Project Name="continue" ConfigName="Debug"/>
+      <Project Name="705scrabble" ConfigName="Debug"/>
+      <Project Name="711name" ConfigName="Debug"/>
+      <Project Name="710vowels" ConfigName="Debug"/>
+      <Project Name="712evaluate" ConfigName="Debug"/>
+      <Project Name="713wordavg" ConfigName="Debug"/>
+      <Project Name="714sqrt_Newton" ConfigName="Debug"/>
+      <Project Name="8repdigit" ConfigName="Debug"/>
+      <Project Name="8deal" ConfigName="Debug"/>
+      <Project Name="8repdigit2" ConfigName="Debug"/>
+      <Project Name="801repdigitv2" ConfigName="Debug"/>
+      <Project Name="802repdigitv3" ConfigName="Debug"/>
+      <Project Name="806B1FF" ConfigName="Debug"/>
+      <Project Name="809random_walk" ConfigName="Debug"/>
+      <Project Name="814reverse_string" ConfigName="Debug"/>
+      <Project Name="815caesar_cipher" ConfigName="Debug"/>
+      <Project Name="816anagram" ConfigName="Debug"/>
+      <Project Name="817magic_square" ConfigName="Debug"/>
+      <Project Name="9quicksort" ConfigName="Debug"/>
+      <Project Name="901selection_sort" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="dec2bin" ConfigName="Release"/>
+      <Project Name="reverse" ConfigName="Release"/>
+      <Project Name="201correct" ConfigName="Release"/>
+      <Project Name="207denominations" ConfigName="Release"/>
+      <Project Name="301date" ConfigName="Release"/>
+      <Project Name="305matrix" ConfigName="Release"/>
+      <Project Name="reverse2" ConfigName="Release"/>
+      <Project Name="date2" ConfigName="Release"/>
+      <Project Name="501digits" ConfigName="Release"/>
+      <Project Name="502time" ConfigName="Release"/>
+      <Project Name="demo" ConfigName="Release"/>
+      <Project Name="507largest" ConfigName="Release"/>
+      <Project Name="601largest" ConfigName="Release"/>
+      <Project Name="602hcf" ConfigName="Release"/>
+      <Project Name="603fraction" ConfigName="Release"/>
+      <Project Name="608calendar" ConfigName="Release"/>
+      <Project Name="611exponential" ConfigName="Release"/>
+      <Project Name="608calendar2" ConfigName="Release"/>
+      <Project Name="701typemax" ConfigName="Release"/>
+      <Project Name="continue" ConfigName="Release"/>
+      <Project Name="705scrabble" ConfigName="Release"/>
+      <Project Name="711name" ConfigName="Release"/>
+      <Project Name="710vowels" ConfigName="Release"/>
+      <Project Name="712evaluate" ConfigName="Release"/>
+      <Project Name="713wordavg" ConfigName="Release"/>
+      <Project Name="714sqrt_Newton" ConfigName="Release"/>
+      <Project Name="8repdigit" ConfigName="Release"/>
+      <Project Name="8deal" ConfigName="Release"/>
+      <Project Name="8repdigit2" ConfigName="Release"/>
+      <Project Name="801repdigitv2" ConfigName="Release"/>
+      <Project Name="802repdigitv3" ConfigName="Release"/>
+      <Project Name="806B1FF" ConfigName="Release"/>
+      <Project Name="809random_walk" ConfigName="Release"/>
+      <Project Name="814reverse_string" ConfigName="Release"/>
+      <Project Name="815caesar_cipher" ConfigName="Release"/>
+      <Project Name="816anagram" ConfigName="Release"/>
+      <Project Name="817magic_square" ConfigName="Release"/>
+      <Project Name="9quicksort" ConfigName="Release"/>
+      <Project Name="901selection_sort" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
